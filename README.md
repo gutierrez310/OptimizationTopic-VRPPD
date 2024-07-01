@@ -1,6 +1,6 @@
 # Resolviendo un problema de ruteo de vehículos con capacidad a traves de GRASP
 
-![Rutas óptimas de Monterrey](res_routes.png)
+![Solucion VRPPD](res_routes.png)
 
 El problema de generación de rutas para vehículos (VRP) es una variación del problema del viajante de comercio
 (TSP). Este problema implica determinar el conjunto óptimo de rutas para que una flota de vehículos entregue bienes o brinde servicios a un conjunto de clientes. El objetivo es minimizar la distancia total recorrida o el costo total mientras se satisfacen varias restricciones, como las limitaciones de capacidad del vehículo o las ventanas de tiempo del cliente. 
